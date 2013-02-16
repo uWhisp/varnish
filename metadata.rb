@@ -8,6 +8,6 @@ version           "0.9.4"
 recipe "varnish",      "Installs and configures varnish"
 recipe "varnish::apt_repo", "Adds the official varnish project apt repository"
 
-%w{ubuntu debian}.each do |os|
+%w{ubuntu debian amazon}.each do |os|
   supports os
 end

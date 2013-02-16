@@ -13,6 +13,7 @@ Tested on:
 * Ubuntu 11.10
 * Ubuntu 10.04
 * Debian 6.0
+* Amazon Linux 2012.09
 
 Attributes
 ==========
